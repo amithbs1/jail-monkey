@@ -35,6 +35,7 @@ RCT_EXPORT_MODULE();
              @"/private/var/lib/apt",
              @"/usr/sbin/frida-server",
              @"/usr/bin/cycript",
+             @"/private/var/lib/apt/",
              @"/usr/local/bin/cycript",
              @"/usr/lib/libcycript.dylib",
              @"/Applications/FakeCarrier.app",
